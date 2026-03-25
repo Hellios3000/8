@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://workingsolutions.com.ua/sitemap.xml
